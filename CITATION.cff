@@ -1,0 +1,30 @@
+cff-version: 1.0.0
+date-released: 2025-01
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Jung"
+  given-names: "Nam-Gyu"
+- family-names: "Hoang"
+  given-names: "Van Thuy"
+- family-names: "Lee"
+  given-names: "O-Joun"
+- family-names: "Choi"
+  given-names: "Chang"
+title: "Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail"
+url: "https://ieeexplore.ieee.org/document/10433857"
+preferred-citation:
+  type: article
+  journal: "IEEE Internet of Things Journal"
+  authors:
+    - family-names: "Jung"
+      given-names: "Nam-Gyu"
+    - family-names: "Hoang"
+      given-names: "Van Thuy"
+    - family-names: "Lee"
+      given-names: "O-Joun"
+    - family-names: "Choi"
+      given-names: "Chang"
+  title: "Kiosk Recommend System based on Self-Supervised Representation Learning of User Behaviors in Offline Retail"
+  url: "https://ieeexplore.ieee.org/document/10433857"
+  year: 2024
+  publisher: "IEEE"
